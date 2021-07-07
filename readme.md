@@ -20,7 +20,7 @@
 
 ## Instruções para uso:
 
-1º - yarn install
+1º - yarn
 
 2º - yarn dev
 
