@@ -18,14 +18,12 @@
 [Swagger-url]: https://swagger.io/
 [Swagger-image]: https://img.shields.io/badge/Swagger-orange?style=for-the-badge&logo=Swagger&logoColor=white
 
----
 ## Instruções para uso:
 
 1º - yarn install
 
 2º - yarn dev
 
----
 ## Tutorial de Rotas com Swagger:
 
 Acessar: http://localhost:3333/api-docs/
