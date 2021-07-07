@@ -1,4 +1,4 @@
-<h1>API - Aluguel de Carros</h1>
+<h1>API - Rentalx</h1>
 
 [![Package][Express-image]][Express-url] 
 [![Technology][node-image]][node-url] 
