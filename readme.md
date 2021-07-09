@@ -11,7 +11,7 @@
 [Express-image]: https://img.shields.io/badge/Express-green?style=for-the-badge&logo=Express&logoColor=black
 
 [node-url]: https://nodejs.org/
-[node-image]: https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node-dot-js&logoColor=black
+[node-image]: https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.js&logoColor=black
 
 [typescript-url]: https://www.typescriptlang.org
 [typescript-image]: https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white
