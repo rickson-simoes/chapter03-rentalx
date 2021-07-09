@@ -4,6 +4,7 @@
 [![Technology][node-image]][node-url] 
 [![Technology][typescript-image]][typescript-url] 
 [![Package][Swagger-image]][Swagger-url] 
+[![Technology][Docker-image]][Docker-url] 
 
 
 [Express-url]: https://www.npmjs.com/package/Express
@@ -18,11 +19,12 @@
 [Swagger-url]: https://swagger.io/
 [Swagger-image]: https://img.shields.io/badge/Swagger-orange?style=for-the-badge&logo=Swagger&logoColor=white
 
+[Docker-url]: https://www.docker.com//
+[Docker-image]: https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white
+
 ## Instruções para uso:
 
-1º - yarn
-
-2º - yarn dev
+1º - docker-compose up
 
 ## Tutorial de Rotas com Swagger:
 
