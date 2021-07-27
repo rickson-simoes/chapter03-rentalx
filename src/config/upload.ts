@@ -3,7 +3,7 @@ import multer from "multer";
 import { resolve } from "path";
 
 export default {
-  upload(folder: string): any {
+  upload(folder: string): unknown {
     return {
       storage: multer.diskStorage({
         destination: resolve(__dirname, "..", "..", folder),
